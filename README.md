@@ -6,6 +6,7 @@ A brief description of your project.
 
 - [Introduction](#introduction)
 - [Features](#features)
+- [Requirements](#Requirements)
 - [Installation](#installation)
 - [Contributing](#contributing)
 - [License](#license)
@@ -32,6 +33,18 @@ This project offers two main functionalities:
 1. **nRF24 Radio Communication with Packet Acknowledgement**: The project leverages the nRF24L01 2.4GHz RF transceiver module for wireless communication. It includes a robust communication protocol with packet acknowledgement, ensuring reliable data transmission between devices. This functionality is crucial for establishing communication between your Arduino-based devices, such as robots, controllers, or sensors.
 
 2. **Display Information in GUINO Dashboard**: The project provides a graphical user interface (GUI) dashboard called GUINO for monitoring and controlling your Arduino-based systems. GUINO allows you to display real-time information, including sensor data, system status, and interactive controls. It offers a user-friendly interface for managing and interacting with your connected
+
+# Requirements
+
+To utilise this project, you'll need the following components:
+
+1. **Arduino Microcontroller**: You'll require an Arduino microcontroller board, such as Arduino Uno R3 or Arduino Nano, to run the provided Arduino sketch files. These microcontrollers serve as the central processing units (CPUs) for your connected devices.
+
+2. **nRF24L01+ Radio Module**: The project relies on the nRF24L01+ 2.4GHz RF transceiver module for wireless communication. Ensure you have one or more nRF24L01+ modules, depending on your project's communication requirements.
+
+These components form the core hardware prerequisites for setting up and running the project effectively. Make sure you have the necessary Arduino microcontroller and nRF24L01+ radio modules to get started.
+
+
 
 
 # Installation
