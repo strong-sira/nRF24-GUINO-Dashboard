@@ -1,4 +1,4 @@
-# nRF24 - GUINO Dashboard
+# nRF24L01+ - GUINO Dashboard
 
 A brief description of your project.
 
@@ -7,6 +7,7 @@ A brief description of your project.
 - [Introduction](#introduction)
 - [Features](#features)
 - [Requirements](#Requirements)
+- [Project Files](#Project Files)
 - [Installation](#installation)
 - [Contributing](#contributing)
 - [License](#license)
@@ -44,7 +45,13 @@ To utilise this project, you'll need the following components:
 
 These components form the core hardware prerequisites for setting up and running the project effectively. Make sure you have the necessary Arduino microcontroller and nRF24L01+ radio modules to get started.
 
+# Project Files
 
+**Controller and Dashboard Display**: RF24Comms_Master_Controller_Oneway_.ino contains the code necessary to communicate radio data recieved to GUINO.exe executable via serial communication. Guino_libarary.ino is a library for GUINO which contains all the functions and defitions. This file is necessary for RF24Comms_Master_Controller_Oneway_.ino to function.
+
+**Bot Transceiver**: Bot_Transceiver.ino sketch contains the code for the bot which transmit a payload to the controller unit.
+
+**GUINO PACKAGE**: This file contains the GUINO executable program which is able to communicate with the arduino running the Controller and Dashboard Display program.
 
 
 # Installation
