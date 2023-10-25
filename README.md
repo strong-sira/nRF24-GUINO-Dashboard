@@ -13,6 +13,7 @@ A brief description of your project.
 
 ## Introduction
 ![GUINO Dashboard Screenshot](GUINO_Dashboard.png)
+![GUINO Dashboard Screenshot 2](GUINO-Dashboard 2.png)
 The nRF24 GUINO project addresses this critical need by providing a robust and flexible solution for monitoring and controlling rescue robots. This project is driven by the following key objectives:
 
 1. **Wireless Communication**: Leveraging the nRF24L01 radio communication modules, known for their reliability and low-power consumption, to establish seamless wireless communication channels between robots and operators or control centers.
