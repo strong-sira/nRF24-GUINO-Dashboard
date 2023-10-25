@@ -1,4 +1,4 @@
-# nRF24L01+ - GUINO Dashboard
+# nRF24L01+ GUINO Dashboard
 
 A brief description of your project.
 
@@ -12,9 +12,7 @@ A brief description of your project.
 - [Credits](#Credits)
 
 ## Introduction
-
-In an era marked by technological advancements, the deployment of autonomous robots in disaster-stricken or hazardous environments plays a pivotal role in disaster response and recovery efforts. These resilient machines, often referred to as rescue robots, are tasked with navigating treacherous terrain, searching for survivors, and relaying critical information to human operators. In such high-stakes situations, ensuring the efficiency, reliability, and ease of operation of these robots is of paramount importance, as every second saved can make a substantial difference in saving lives.
-
+![GUINO Dashboard Screenshot](GUINO_Dashboard.png)
 The nRF24 GUINO project addresses this critical need by providing a robust and flexible solution for monitoring and controlling rescue robots. This project is driven by the following key objectives:
 
 1. **Wireless Communication**: Leveraging the nRF24L01 radio communication modules, known for their reliability and low-power consumption, to establish seamless wireless communication channels between robots and operators or control centers.
