@@ -95,6 +95,6 @@ SOFTWARE.
 
 ## Credits
 GUINO Dashboard:
-Programming and idea by: Mads Hobye
-Easytransfer library by: Bill Porter
-GUI library by: Reza Ali
+- Programming and idea by: Mads Hobye
+- Easytransfer library by: Bill Porter
+- GUI library by: Reza Ali
