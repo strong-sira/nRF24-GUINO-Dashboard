@@ -43,6 +43,7 @@ To utilise this project, you'll need the following components:
 2. **nRF24L01+ Radio Module**: The project relies on the nRF24L01+ 2.4GHz RF transceiver module for wireless communication. Ensure you have one or more nRF24L01+ modules, depending on your project's communication requirements.
     Wiring Schematic for the module (Some nRF24 modules will have different pinout configurations see the specific data for your pinout.)
     ![Wiring Schematic for the module](nrf24PinOut.png)
+    
     source:Dejan, How to Mechatronics [https://howtomechatronics.com/tutorials/arduino/arduino-wireless-communication-nrf24l01-tutorial/]
 
 
