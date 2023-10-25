@@ -41,6 +41,11 @@ To utilise this project, you'll need the following components:
 1. **Arduino Microcontroller**: You'll require an Arduino microcontroller board, such as Arduino Uno R3 or Arduino Nano, to run the provided Arduino sketch files. These microcontrollers serve as the central processing units (CPUs) for your connected devices.
 
 2. **nRF24L01+ Radio Module**: The project relies on the nRF24L01+ 2.4GHz RF transceiver module for wireless communication. Ensure you have one or more nRF24L01+ modules, depending on your project's communication requirements.
+    Wiring Schematic for the module (Some nRF24 modules will have different pinout configurations see the specific data for your pinout.)
+    ![Wiring Schematic for the module](nrf24PinOut.png)
+    source:Dejan, How to Mechatronics [https://howtomechatronics.com/tutorials/arduino/arduino-wireless-communication-nrf24l01-tutorial/]
+
+
 
 These components form the core hardware prerequisites for setting up and running the project effectively. Make sure you have the necessary Arduino microcontroller and nRF24L01+ radio modules to get started.
 
